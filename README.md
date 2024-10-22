@@ -2,6 +2,7 @@
 Just for educational purpose. 
 
 
+first set this env & python.
 To run this code on VS Code, follow these steps:
 
 1. Install Python:
